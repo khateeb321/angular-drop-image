@@ -4,6 +4,8 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
 
 - angular-drop-image require [ngStorage](https://github.com/gsklee/ngStorage).
 
+# Usage
+
 ```html
 <html>
   <head>...</head>
@@ -20,3 +22,14 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
   </body>
 </html>
 ```
+
+
+# Install
+
+## NPM
+
+`npm i --save angular-drop-image`
+
+# Licence
+
+MIT
