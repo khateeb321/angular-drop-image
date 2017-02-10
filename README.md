@@ -1,6 +1,8 @@
 # angular-drop-image
 
-angular-drop-image require [ngStorage](https://github.com/gsklee/ngStorage).
+An [AngularJs](https://github.com/angular/angular.js) directive that allows you to drag and drop images into a certain area.
+
+- angular-drop-image require [ngStorage](https://github.com/gsklee/ngStorage).
 
 ```html
 <html>
