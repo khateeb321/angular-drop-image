@@ -26,7 +26,7 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
 
 # Install
 
-## NPM
+#### NPM
 
 `npm i --save angular-drop-image`
 
