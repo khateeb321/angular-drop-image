@@ -1,6 +1,6 @@
 # angular-drop-image
 
-Drop Image
+angular-drop-image require [ngStorage](https://github.com/gsklee/ngStorage).
 
 ```html
 <html>
