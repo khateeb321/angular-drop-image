@@ -30,6 +30,6 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
 
 `npm i --save angular-drop-image`
 
-# Licence
+# License
 
 MIT
