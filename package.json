@@ -4,7 +4,8 @@
   "description": "Drag and drop the image here!",
   "main": "./dist/angular-drop-image.js",
   "scripts": {
-    "build": "rollup -c --watch",
+    "dev": "rollup -c --watch",
+    "build": "rollup -c",
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
