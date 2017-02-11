@@ -11,6 +11,7 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
   <head>...</head>
   <body ng-app="app">
   
+    <!-- Drag and drop the image here! -->
     <div class="content" ng-drop-image ng-model="image.src">
       <img ng-src="image.src" />
     </div>
@@ -29,6 +30,10 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
 #### NPM
 
 `npm i --save angular-drop-image`
+
+# Contributions
+
+Just send us what you need :)
 
 # License
 
