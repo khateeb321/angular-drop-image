@@ -1,6 +1,6 @@
 {
   "name": "angular-drop-image",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Drag and drop the image here!",
   "main": "./dist/angular-drop-image.js",
   "scripts": {
