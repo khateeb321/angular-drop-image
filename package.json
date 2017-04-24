@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uni-projecao/angular-drop-image.git"
+    "url": "git+https://github.com/projecao/angular-drop-image.git"
   },
   "dependencies": {
     "ngstorage": "^0.3.11"
