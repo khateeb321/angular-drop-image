@@ -13,7 +13,7 @@ An [AngularJs](https://github.com/angular/angular.js) directive that allows you 
   
     <!-- Drag and drop the image here! -->
     <div class="content" ng-drop-image ng-model="image.src">
-      <img ng-src="image.src" />
+      <img ng-src="{{image.src}}" />
     </div>
     
     <script>
